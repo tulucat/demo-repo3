@@ -1,7 +1,7 @@
 # Yi Xin Tan
 # 21May2021
 # Applied Computing Practice SAC
-# edited!
+# comment
 
 # get number of students
 num_of_students = int(input('Please enter a number of students: '))
