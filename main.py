@@ -2,6 +2,7 @@
 # 21May2021
 # Applied Computing Practice SAC
 # comment
+# another comment
 
 # get number of students
 num_of_students = int(input('Please enter a number of students: '))
